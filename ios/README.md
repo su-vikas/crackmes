@@ -1,6 +1,6 @@
 #iOweAss
 
-![](ass.png)
+![](ass.png =100x20)
 
 ##Objective
 
