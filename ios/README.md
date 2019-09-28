@@ -10,3 +10,6 @@ There are multiple defense mechanisms inbuilt into the application to challenge 
 ##Installation
 
 Currently the application is unsigned and you need to sign it before installing on an iDevice. If you have developer profile, you can sign the app using [iOS App Signer](https://dantheman827.github.io/ios-app-signer/). 
+
+
+Logo from: https://pixabay.com/vectors/burro-donkey-jackass-1295711/
