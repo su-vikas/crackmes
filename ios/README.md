@@ -2,8 +2,9 @@
 
 Are you a SmartAss or JackAss!! 
 
-<img src="./ass.png" width="150" height="150">
-
+<p align="center">
+    <img src="./ass.png" width="150" height="150">
+</p>
 
 ## Objective
 
