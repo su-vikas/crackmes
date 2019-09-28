@@ -3,7 +3,7 @@
 Are you a SmartAss or JackAss!! 
 
 <p align="center">
-    <img src="./ass.png" width="150" height="150">
+    <img src="./ass_icon.png" width="150" height="150">
 </p>
 
 ## Objective
