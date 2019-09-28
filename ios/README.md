@@ -7,7 +7,9 @@
 The goal is to find a secret string to unlock the application. On successfully guessing the secret string you will be greeted with **"You are a SmartAss!!"** message. 
 There are multiple defense mechanisms inbuilt into the application to challenge your reversing skills. 
 
-<img src="./app.png" width="150" height="350">
+<p align="center">
+    <img src="./app.png" width="200" height="400">
+</p>
 
 ## Installation
 
