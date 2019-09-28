@@ -1,11 +1,13 @@
 # iOweAss
 
-<img src="./ass.png" width="100" height="100">
+<img src="./ass.png" width="150" height="150">
 
 ## Objective
 
-The goal is to find a secret string to unlock the application. On successfully guessing the secret string you will be greeted with "You are a SmartAss!!" message. 
+The goal is to find a secret string to unlock the application. On successfully guessing the secret string you will be greeted with **"You are a SmartAss!!"** message. 
 There are multiple defense mechanisms inbuilt into the application to challenge your reversing skills. 
+
+<img src="./app.png" width="150" height="350">
 
 ## Installation
 
